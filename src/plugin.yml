@@ -1,0 +1,7 @@
+name: RandomBlockLook
+version: 1.0
+author: Martin Juras
+main: me.Th3Gr3y8unny.RandomBlockLook.Main
+
+commands:
+  randomblocklook:
